@@ -1,0 +1,6 @@
+[submodule "percepta-ingester"]
+	path = percepta-ingester
+	url = https://github.com/NoelGK/percepta-ingester.git
+[submodule "percepta-inferencer"]
+	path = percepta-inferencer
+	url = https://github.com/NoelGK/percepta-inferencer.git

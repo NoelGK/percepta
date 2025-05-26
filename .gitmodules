@@ -4,3 +4,6 @@
 [submodule "percepta-inferencer"]
 	path = percepta-inferencer
 	url = https://github.com/NoelGK/percepta-inferencer.git
+[submodule "percepta-backend"]
+	path = percepta-backend
+	url = https://github.com/NoelGK/percepta-backend.git
